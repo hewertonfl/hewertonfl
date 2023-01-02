@@ -1,4 +1,5 @@
-<div id="header" align="Center">
+<div id="header" align="end">
+
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80px"/>
 </div> 
 
@@ -9,7 +10,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>-->
 
-<h1 style="text-align:center">
+<h1 align="start">
   Hey there!
  <!-- <img style="display:flex;justify-content:center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>-->
 </h1>
@@ -21,7 +22,7 @@
 - 💞️ I’m looking to collaborate on Frontend/Backend, DataScience Analysis and Automation projects'
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px" height="225px"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
