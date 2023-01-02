@@ -3,27 +3,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80px"/>
 </div> 
 
-
-
-<!--<h1>
-  Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>-->
-
-<h1 align="start">
-  Hey there!
- <!-- <img style="display:flex;justify-content:center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>-->
-</h1>
-
+# Hey there!
 
 - 👋 Hi, I’m @hewertonfl
 - 👀 I’m interested in Control and Automation Engineering, A.I, Machine Learning, DataScience, Software Development, WEB Development
 - 🌱 I’m currently learning Full Stack Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💞️ I’m looking to collaborate on Frontend/Backend, DataScience Analysis and Automation projects'
-
+</br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300px" height="225px"/>
 </div>
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
